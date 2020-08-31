@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ArithmeticHelper-kevinkit", # Replace with your own username
-    version="0.0.001b",
+    version="0.0.002b",
     author="Kevin H",
     author_email="",
     description="Functions for bit width on arithmetic",
